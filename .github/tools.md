@@ -10,4 +10,5 @@
   * 高亮选中的单词：`command + D`
 * VSCode常用快捷键参考：<https://zhuanlan.zhihu.com/p/564341329>
 * VSCode快捷键cheatsheet: <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf>
+* VSCode远程调试：<https://zhuanlan.zhihu.com/p/295099630>
 * MacOS终端快捷键：<https://support.apple.com/zh-cn/guide/terminal/trmlshtcts/mac>
