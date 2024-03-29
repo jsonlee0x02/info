@@ -6,3 +6,4 @@
 + Energy-Aware Tile Size Selection for Affine Programs on GPUs, <https://malithjayaweera.com/wp-content/uploads/2024/01/CGO24_eatss_PREPRINT.pdf>
 + **Distinguished Paper Award**: oneDNN Graph Compiler: A Hybrid Approach for High-Performance Deep Learning Compilation, <https://arxiv.org/abs/2301.01333>
 + AskIt: Unified Programming Interface for Programming with Large Language Models, <https://arxiv.org/abs/2308.15645>, code: <https://github.com/katsumiok/askit-artifact> & <https://github.com/katsumiok/pyaskit>
++ C4ML'2024 workshop at CGO'2024: <https://www.c4ml.org>
