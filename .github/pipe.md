@@ -4,3 +4,8 @@
 * 常规神经网络算力需求：<https://blog.csdn.net/weixin_36474809/article/details/85675504>
 * 英伟达自动驾驶芯片演进历史：<https://en.wikipedia.org/wiki/Nvidia_Drive>
 * llvm-project国内镜像仓库：<https://gitee.com/mirrors/LLVM>
+
+## HDMapNet
+
+* HDMap在智驾中承担的角色：<https://auto.jgvogel.cn/c1302027.shtml>
+* HDMap建图技术总结：<https://zhuanlan.zhihu.com/p/600087910>
