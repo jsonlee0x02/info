@@ -12,3 +12,4 @@
 * VSCode快捷键cheatsheet: <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf>
 * VSCode远程调试：<https://zhuanlan.zhihu.com/p/295099630>
 * MacOS终端快捷键：<https://support.apple.com/zh-cn/guide/terminal/trmlshtcts/mac>
+* MacOS版文本比较工具beyond compare: <https://www.scootersoftware.com/download>
