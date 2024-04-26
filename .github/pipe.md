@@ -3,6 +3,7 @@
 * Transpose Convolutions and Autoencoders: <https://www.cs.toronto.edu/~lczhang/321/lec/autoencoder_notes.html>
 * 常规神经网络算力需求：<https://blog.csdn.net/weixin_36474809/article/details/85675504>
 * 英伟达自动驾驶芯片演进历史：<https://en.wikipedia.org/wiki/Nvidia_Drive>
+* 车载智能计算芯片白皮书：<https://www.armchina.com/webarm/arm/material/download/profile/resource/2023/07/10/10f8e872-6da8-4c90-9e26-ddeb1084c415.pdf>
 * llvm-project国内镜像仓库：<https://gitee.com/mirrors/LLVM>
 * onnx模型参数可视化在线工具：<https://netron.app/>
 
