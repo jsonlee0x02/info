@@ -13,5 +13,6 @@
 * HDMap建图技术总结：<https://zhuanlan.zhihu.com/p/600087910>
 * nuScenses示例图：<https://www.nuscenes.org/nuscenes#data-collection>
 * 相机内参：<https://www.cse.psu.edu/~rtc12/CSE486/lecture12.pdf>
+* BEVPoolV2: <https://arxiv.org/pdf/2211.17111> & <https://github.com/HuangJunJie2017/BEVDet/tree/dev2.0>
 * Book, Programming with 64-Bit ARM Assembly Language, <https://surma.dev/postits/arm64/>
 * openai triton基于MLIR重构记录：<https://superjomn.github.io/posts/triton-mlir-publish/#tritonir-%E7%9A%84%E4%BC%98%E5%8C%96>
