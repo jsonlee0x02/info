@@ -20,3 +20,9 @@
 * BEVPoolV2: <https://arxiv.org/pdf/2211.17111> & <https://github.com/HuangJunJie2017/BEVDet/tree/dev2.0>
 * Book, Programming with 64-Bit ARM Assembly Language, <https://surma.dev/postits/arm64/>
 * openai triton基于MLIR重构记录：<https://superjomn.github.io/posts/triton-mlir-publish/#tritonir-%E7%9A%84%E4%BC%98%E5%8C%96>
+
+## Others
+
+* 关于组织结构的思考：Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile,  <https://www.researchgate.net/publication/250082400_Complexity_Rising_From_Human_Beings_to_Human_Civilization_a_Complexity_Profile>
+* 公司治理结构：<https://www.ceibs.edu/facultyCV/lneng/ch3%20two%20stories%20and%20a%20model%205%204%2099.pdf>
+* 王慧文清华产品课：<https://zhuanlan.zhihu.com/p/476319074>
