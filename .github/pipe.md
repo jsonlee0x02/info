@@ -10,6 +10,7 @@
 * 车载智能计算芯片白皮书：<https://www.armchina.com/webarm/arm/material/download/profile/resource/2023/07/10/10f8e872-6da8-4c90-9e26-ddeb1084c415.pdf>
 * llvm-project国内镜像仓库：<https://gitee.com/mirrors/LLVM>
 * onnx模型参数可视化在线工具：<https://netron.app/>
+* prettytable: <https://pypi.org/project/prettytable/>
 
 ## HDMapNet
 
