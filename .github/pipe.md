@@ -11,6 +11,7 @@
 * llvm-project国内镜像仓库：<https://gitee.com/mirrors/LLVM>
 * onnx模型参数可视化在线工具：<https://netron.app/>
 * prettytable: <https://pypi.org/project/prettytable/>
+* 可重构计算，CGRA相关论文：<https://blog.sciencenet.cn/blog-3406013-1218187.html>
 
 ## HDMapNet
 
