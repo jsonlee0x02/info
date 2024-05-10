@@ -13,6 +13,7 @@
 * python table print库，prettytable: <https://pypi.org/project/prettytable/>
 * 可重构计算，CGRA相关论文：<https://blog.sciencenet.cn/blog-3406013-1218187.html>
 * 斯坦福CGRA系列工作：<https://aha.stanford.edu/publications>
+* CGRA工具链：<https://www.tkojima.me/slides/2022/cgra4hpc2022_slide_kojima.pdf>
 
 ## HDMapNet
 
