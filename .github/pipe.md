@@ -12,6 +12,7 @@
 * onnx模型参数可视化在线工具：<https://netron.app/>
 * python table print库，prettytable: <https://pypi.org/project/prettytable/>
 * 可重构计算，CGRA相关论文：<https://blog.sciencenet.cn/blog-3406013-1218187.html>
+* 斯坦福CGRA系列工作：<https://aha.stanford.edu/publications>
 
 ## HDMapNet
 
