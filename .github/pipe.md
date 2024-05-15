@@ -31,3 +31,9 @@
 * 关于组织结构的思考：Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile,  <https://www.researchgate.net/publication/250082400_Complexity_Rising_From_Human_Beings_to_Human_Civilization_a_Complexity_Profile>
 * 公司治理结构：<https://www.ceibs.edu/facultyCV/lneng/ch3%20two%20stories%20and%20a%20model%205%204%2099.pdf>
 * 王慧文清华产品课：<https://zhuanlan.zhihu.com/p/476319074>
+
+## Research
+
+* How to Look for Ideas in Computer Science Research: <https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f>
+* Design Patterns for Research Methods: Iterative Field Research, <https://kpratt.net/wp-content/uploads/2009/01/research_methods.pdf>
+* Research Patterns by Prof. Philip Guo
