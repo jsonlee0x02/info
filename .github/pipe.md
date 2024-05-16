@@ -12,6 +12,7 @@
   * 常规神经网络算力需求：<https://blog.csdn.net/weixin_36474809/article/details/85675504>
   * 英伟达自动驾驶芯片演进历史：<https://en.wikipedia.org/wiki/Nvidia_Drive>
   * Tesla自动驾驶硬件进化史：<https://zhuanlan.zhihu.com/p/369300487>
+  * Chris Lattner作为特斯拉自动驾驶软件的技术VP，经历了特斯拉第一代到第二代的过渡时期：<https://nondot.org/sabre/Resume.html#Tesla>
   * Tesla FSD 3.0芯片细节：<https://fuse.wikichip.org/news/2707/inside-teslas-neural-processor-in-the-fsd-chip/>
   * Tesla FSD 4.0: <https://after1989.com/teslas-latest-advancement-hardware-4-0/>
   * wikichip中的自动驾驶芯片：<https://en.wikichip.org/wiki/autonomous_driving_chip>
