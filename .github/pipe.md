@@ -8,6 +8,7 @@
 * Tesla FSD 4.0: <https://after1989.com/teslas-latest-advancement-hardware-4-0/>
 * wikichip中的自动驾驶芯片：<https://en.wikichip.org/wiki/autonomous_driving_chip>
 * 车载智能计算芯片白皮书：<https://www.armchina.com/webarm/arm/material/download/profile/resource/2023/07/10/10f8e872-6da8-4c90-9e26-ddeb1084c415.pdf>
+* 车载智能OS开源原型参考，FastDDS：<https://github.com/eProsima/Fast-DDS> & <https://zhuanlan.zhihu.com/p/488457744>
 * llvm-project国内镜像仓库：<https://gitee.com/mirrors/LLVM>
 * onnx模型参数可视化在线工具：<https://netron.app/>
 * python table print库，prettytable: <https://pypi.org/project/prettytable/>
