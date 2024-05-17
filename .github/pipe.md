@@ -40,6 +40,13 @@
 * 组织结构和治理
   * 关于组织结构的思考：Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile,  <https://www.researchgate.net/publication/250082400_Complexity_Rising_From_Human_Beings_to_Human_Civilization_a_Complexity_Profile>
   * 公司治理结构：<https://www.ceibs.edu/facultyCV/lneng/ch3%20two%20stories%20and%20a%20model%205%204%2099.pdf>
+  * OpenAI与DeepMind的scaling laws之争：<https://www.huxiu.com/article/2752424.html>
+    * "幂律"是指 两个变量中的一个变量 与 另一个变量的某个幂次 成 正比
+    * 类似的规律在书《规模》中有类似的探讨
+  * 关于《规模》的思考：<https://baijiahao.baidu.com/s?id=1666179110447958325&wfr=spider&for=pc>
+    * 这里面有一个有意思的系数：3/4，非严格证明，身体的代谢率与体重之间的关系
+    * 进一步演绎出城市、企业和规模之间的关系
+  * 提高思考效率的50个模型，生命周期理论：<https://baijiahao.baidu.com/s?id=1784630212102007171&wfr=spider&for=pc>
 * 产品
   * 王慧文清华产品课：<https://zhuanlan.zhihu.com/p/476319074>
 
