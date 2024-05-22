@@ -33,6 +33,7 @@
   * CGRA工具链：<https://www.tkojima.me/slides/2022/cgra4hpc2022_slide_kojima.pdf>
   * ClangIR设计的动机和示例：<https://github.com/llvm/clangir> & <http://brunocardoso.cc/resources/2023-LLVMDevMtgClangIR.pdf> & <https://zhuanlan.zhihu.com/p/686260593>
   * openai triton基于MLIR重构记录：<https://superjomn.github.io/posts/triton-mlir-publish/#tritonir-%E7%9A%84%E4%BC%98%E5%8C%96>
+  * Clang源源变换示例：<https://eli.thegreenplace.net/2014/05/01/modern-source-to-source-transformation-with-clang-and-libtooling> & <http://amnoid.de/tmp/clangtut/tut.html>
 
 
 ## Others
