@@ -2,6 +2,7 @@
 
 * `智驾模型和应用`
   * Transpose Convolutions and Autoencoders: <https://www.cs.toronto.edu/~lczhang/321/lec/autoencoder_notes.html>
+  * grid sample线性插值：<https://zhuanlan.zhihu.com/p/112030273>
   * HDMapNet
     * HDMap在智驾中承担的角色：<https://auto.jgvogel.cn/c1302027.shtml>
     * HDMap建图技术总结：<https://zhuanlan.zhihu.com/p/600087910>
