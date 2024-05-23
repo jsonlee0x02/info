@@ -379,7 +379,7 @@ MLIR 的设计模式和其代码实现方式确保了框架的灵活性和可扩
 
 设计模式及其代码示例：
 
-### 1. **工厂模式（Factory Pattern）**
+## 1. **工厂模式（Factory Pattern）**
 
 工厂模式用于创建对象，而无需指定确切的类。MLIR 使用工厂模式来创建操作和类型实例。
 
@@ -392,7 +392,7 @@ Operation *operation = Operation::create(location, resultType, operands, attribu
 
 在 MLIR 中，操作（Operation）可以通过工厂方法 `Operation::create` 来创建，避免了直接使用构造函数。
 
-### 2. **访问者模式（Visitor Pattern）**
+## 2. **访问者模式（Visitor Pattern）**
 
 访问者模式表示一个作用于某对象结构中的各元素的操作。MLIR 使用访问者模式来处理不同类型的操作和类型。
 
@@ -419,7 +419,7 @@ OperationVisitor visitor;
 visitor.visit(op);
 ```
 
-### 3. **策略模式（Strategy Pattern）**
+## 3. **策略模式（Strategy Pattern）**
 
 策略模式定义了一系列算法，并将每个算法封装在一个类中，使它们可以互换。MLIR 使用策略模式来实现不同的优化和转换策略。
 
@@ -451,7 +451,7 @@ PatternRewriteStrategy *strategy = new SimplifyArithmetic();
 strategy->applyPattern(patterns);
 ```
 
-### 4. **观察者模式（Observer Pattern）**
+## 4. **观察者模式（Observer Pattern）**
 
 观察者模式定义对象间的一对多依赖关系，当一个对象改变状态时，所有依赖它的对象都会被通知。MLIR 使用观察者模式来管理操作的生命周期和事件处理。
 
@@ -493,7 +493,7 @@ notifier.addListener(&listener);
 notifier.notifyListeners(op);
 ```
 
-### 5. **组合模式（Composite Pattern）**
+## 5. **组合模式（Composite Pattern）**
 
 组合模式将对象组合成树形结构以表示“部分-整体”的层次结构。MLIR 使用组合模式来表示复杂的操作结构和区域（Region）。
 
@@ -543,7 +543,7 @@ region.addBlock(block);
 topOperation.addRegion(region);
 ```
 
-### 6. **装饰者模式（Decorator Pattern）**
+## 6. **装饰者模式（Decorator Pattern）**
 
 装饰者模式允许向一个对象动态添加职责，而不改变其接口。MLIR 使用装饰者模式来扩展操作和类型的功能。
 
@@ -581,7 +581,7 @@ Operation *loggingOp = new LoggingOperation(op);
 loggingOp->execute();
 ```
 
-### 7. **桥接模式（Bridge Pattern）**
+## 7. **桥接模式（Bridge Pattern）**
 
 桥接模式将抽象部分与它的实现部分分离，使它们都可以独立地变化。MLIR 使用桥接模式来实现操作和类型的分离。
 
@@ -620,7 +620,7 @@ Operation op(impl);
 op.execute();
 ```
 
-### 8. **命令模式（Command Pattern）**
+## 8. **命令模式（Command Pattern）**
 
 命令模式将请求封装成对象，以便使用不同的请求、队列或者日志来参数化其他对象。MLIR 使用命令模式来封装和执行各种操作和转换。
 
@@ -666,7 +666,7 @@ QEMU Object Model (QOM) 是 QEMU 中用于建模硬件和设备的面向对象�
 QOM 提供了一种统一的方法来定义和管理虚拟硬件组件，使得 QEMU 能够更灵活适应不同的硬件模拟需求。
 QOM 的主要设计理念：
 
-### 1. **面向对象设计**
+## 1. **面向对象设计**
 
 QOM 是基于面向对象设计的思想，实现了类、继承和多态性。这使得开发者可以通过定义类和子类来表示各种硬件组件，并且可以通过继承来重用和扩展已有的代码。
 
@@ -707,13 +707,13 @@ static void my_device_register_types(void) {
 type_init(my_device_register_types)
 ```
 
-### 2. **模块化和可扩展性**
+## 2. **模块化和可扩展性**
 QOM 提供了一种模块化的方法来组织代码，使得硬件模型可以作为独立的模块进行开发和测试。这种设计使得 QEMU 的扩展和维护更加容易。
 
 **示例**:
 - 通过 QOM，可以独立定义和实现不同的设备模块，而不需要修改核心代码。
 
-### 3. **类型系统**
+## 3. **类型系统**
 QOM 具有一个较为强大的类型系统，允许定义和管理各种设备类型。
 每个设备类型都有一个唯一的名称，并且可以继承其他设备类型的属性和方法。
 
@@ -731,7 +731,7 @@ typedef struct MyDeviceState {
 OBJECT_DECLARE_TYPE(MyDeviceState, MyDeviceClass, MY_DEVICE)
 ```
 
-### 4. **设备生命周期管理**
+## 4. **设备生命周期管理**
 QOM 提供了设备的创建、初始化、实现（realize）和销毁等生命周期管理功能。
 设备的生命周期方法（如 `init`、`realize` 和 `unrealize`）允许开发者在不同的阶段执行特定的初始化和清理操作。
 
@@ -767,7 +767,7 @@ static const TypeInfo my_device_info = {
 };
 ```
 
-### 5. **属性系统**
+## 5. **属性系统**
 QOM 提供了一个灵活的属性系统，允许设备定义和管理属性。
 属性可以是基本数据类型（如整数、字符串）或复杂的对象类型。设备属性可以在设备初始化时设置，并且可以在运行时动态修改。
 
@@ -787,7 +787,7 @@ static void my_device_class_init(ObjectClass *klass, void *data) {
 }
 ```
 
-### 6. **事件和信号**
+## 6. **事件和信号**
 QOM 支持事件和信号机制，允许设备之间通过事件进行通信。
 这种机制增强了设备间的解耦，并使得复杂的硬件交互更容易实现。
 
@@ -805,7 +805,7 @@ static void my_device_class_init(ObjectClass *klass, void *data) {
 }
 ```
 
-### 7. **热插拔支持**
+## 7. **热插拔支持**
 QOM 提供了对设备热插拔的支持，允许在虚拟机运行时动态添加和删除设备。
 该特性对于现代虚拟化平台至关重要。
 
