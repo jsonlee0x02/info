@@ -9,6 +9,7 @@
     * nuScenses示例图：<https://www.nuscenes.org/nuscenes#data-collection>
     * 相机内参：<https://www.cse.psu.edu/~rtc12/CSE486/lecture12.pdf>
   * BEVPoolV2: <https://arxiv.org/pdf/2211.17111> & <https://github.com/HuangJunJie2017/BEVDet/tree/dev2.0>
+  * 旋转加平移（RT+P）转换成矩阵乘运算：<https://blog.51cto.com/u_15060515/3941933> & <https://github.com/zach0zhang/OpenGL_Learning/blob/master/Translation_Transformation/OpenGL%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF6----%E5%B9%B3%E7%A7%BB%EF%BC%8C%E6%97%8B%E8%BD%AC%E5%92%8C%E7%BC%A9%E6%94%BE%E5%8F%98%E6%8D%A2.md>
 * `车载芯片`
   * 常规神经网络算力需求：<https://blog.csdn.net/weixin_36474809/article/details/85675504>
   * 英伟达自动驾驶芯片演进历史：<https://en.wikipedia.org/wiki/Nvidia_Drive>
