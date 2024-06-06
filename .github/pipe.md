@@ -1,6 +1,7 @@
 ## Car
 
 * `智驾模型和应用`
+  * 上海人工智能实验室CVPR'2023 best paper，UniAD：<https://github.com/OpenDriveLab/UniAD>
   * Transpose Convolutions and Autoencoders: <https://www.cs.toronto.edu/~lczhang/321/lec/autoencoder_notes.html>
   * grid sample线性插值：<https://zhuanlan.zhihu.com/p/112030273>
   * HDMapNet
