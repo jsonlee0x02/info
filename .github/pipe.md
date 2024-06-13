@@ -40,6 +40,8 @@
   * 百度昆仑芯架构科普：<https://zhuanlan.zhihu.com/p/646793342>
   * MESI和MOESI cache一致性协议：<https://east1203.github.io/2022/03/19/IC/Cache/MESI%E5%92%8CMOESI%20Cache%E4%B8%80%E8%87%B4%E6%80%A7%E5%8D%8F%E8%AE%AE/>
   * 内存一致性：<https://gfxcourses.stanford.edu/cs149/winter19content/lectures/09_consistency/09_consistency_slides.pdf>
+  * C++中对 memory order 种类的定义及其含义：<https://en.cppreference.com/w/cpp/atomic/memory_order>
+    * 参考车道线：临界区以内的访存指令出不去barrier点（实线）。双实线(临界区外的访存指令进不来) 以及 一半虚线和一半实线（临界区外的访存指令可以被CPU调度优化，进入到临界区中）
   * virtqueue转盘模式：<https://nxw.name/2023/virtqueue>
   * ClangIR设计的动机和示例：<https://github.com/llvm/clangir> & <http://brunocardoso.cc/resources/2023-LLVMDevMtgClangIR.pdf> & <https://zhuanlan.zhihu.com/p/686260593>
   * openai triton基于MLIR重构记录：<https://superjomn.github.io/posts/triton-mlir-publish/#tritonir-%E7%9A%84%E4%BC%98%E5%8C%96>
