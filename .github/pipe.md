@@ -39,6 +39,7 @@
   * CGRA工具链：<https://www.tkojima.me/slides/2022/cgra4hpc2022_slide_kojima.pdf>
   * 百度昆仑芯架构科普：<https://zhuanlan.zhihu.com/p/646793342>
   * MESI和MOESI cache一致性协议：<https://east1203.github.io/2022/03/19/IC/Cache/MESI%E5%92%8CMOESI%20Cache%E4%B8%80%E8%87%B4%E6%80%A7%E5%8D%8F%E8%AE%AE/>
+  * 内存一致性：<https://gfxcourses.stanford.edu/cs149/winter19content/lectures/09_consistency/09_consistency_slides.pdf>
   * virtqueue转盘模式：<https://nxw.name/2023/virtqueue>
   * ClangIR设计的动机和示例：<https://github.com/llvm/clangir> & <http://brunocardoso.cc/resources/2023-LLVMDevMtgClangIR.pdf> & <https://zhuanlan.zhihu.com/p/686260593>
   * openai triton基于MLIR重构记录：<https://superjomn.github.io/posts/triton-mlir-publish/#tritonir-%E7%9A%84%E4%BC%98%E5%8C%96>
