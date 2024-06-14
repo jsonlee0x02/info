@@ -49,6 +49,7 @@
   * Clang源源变换示例：<https://eli.thegreenplace.net/2014/05/01/modern-source-to-source-transformation-with-clang-and-libtooling> & <http://amnoid.de/tmp/clangtut/tut.html>
   * 基于clang的C内存安全语法增强，<https://github.com/microsoft/checkedc> & <https://github.com/microsoft/checkedc/wiki>
   * GPU性能优化参数影响：<https://github.com/ROCm/Tensile/wiki/Kernel-Parameters>
+  * 伯克利开源SoC系统（含NPU）：<https://github.com/ucb-bar/chipyard>
 
 
 ## Others
