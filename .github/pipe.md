@@ -51,6 +51,7 @@
   * GPU性能优化参数影响：<https://github.com/ROCm/Tensile/wiki/Kernel-Parameters>
   * 伯克利开源SoC系统（含NPU）：<https://github.com/ucb-bar/chipyard>
   * Rocket chip逆向文档: <https://merledupk.org/project/3>
+  * LLVM Backend Support for `Data Streaming Extensions`：<https://hpcas.inesc-id.pt/~handle/papers/MSc_TiagoPires_2021.pdf>
 
 
 ## Others
