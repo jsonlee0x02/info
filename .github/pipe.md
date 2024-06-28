@@ -52,6 +52,7 @@
   * 伯克利开源SoC系统（含NPU）：<https://github.com/ucb-bar/chipyard>
   * Rocket chip逆向文档: <https://merledupk.org/project/3>
   * LLVM Backend Support for `Data Streaming Extensions`：<https://hpcas.inesc-id.pt/~handle/papers/MSc_TiagoPires_2021.pdf>
+  * 伯克利向量指令扩展：<https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-262.pdf>
 
 
 ## Others
