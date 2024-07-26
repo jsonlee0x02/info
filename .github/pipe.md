@@ -54,6 +54,7 @@
   * LLVM Backend Support for `Data Streaming Extensions`：<https://hpcas.inesc-id.pt/~handle/papers/MSc_TiagoPires_2021.pdf>
   * 伯克利向量指令扩展：<https://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-262.pdf>
   * 数据流dataflow编程语言，streamit: <https://groups.csail.mit.edu/cag/streamit/>
+  * 最大团搜索算法：<https://oi-wiki.org/graph/max-clique/>
 
 
 ## Others
