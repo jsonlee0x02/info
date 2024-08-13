@@ -57,6 +57,7 @@
   * 数据流dataflow编程语言，streamit: <https://groups.csail.mit.edu/cag/streamit/>
   * 最大团搜索算法：<https://oi-wiki.org/graph/max-clique/>
   * Region based memory management: <https://sungsoo.github.io/2016/02/18/region-based-memory-management.html>
+  * RISCV多路复用：<https://www.cnblogs.com/lilpig/p/17271603.html>
 
 
 ## Others
