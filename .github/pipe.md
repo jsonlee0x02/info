@@ -43,6 +43,7 @@
   * RISCV load-linked and store-conditon: <https://stackoverflow.com/questions/75047766/why-lr-sc-atomic-instructions-works>
   * LLVM RISCV后端：<https://csstormq.github.io/blog/LLVM%20%E4%B9%8B%E5%90%8E%E7%AB%AF%E7%AF%87%EF%BC%883%EF%BC%89%EF%BC%9A%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%20MyRISCV%20%E7%9B%AE%E6%A0%87%E5%90%8E%E7%AB%AF%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%A1%E6%8C%87%E4%BB%A4>
   * LLVM RISCV后端添加新的Intrinsic：<https://github.com/llvm/llvm-project/commit/16877c5>
+  * LLVM Assembler: <https://llvm.org/devmtg/2013-04/cook-slides.pdf>
   * C++中对 memory order 种类的定义及其含义：<https://en.cppreference.com/w/cpp/atomic/memory_order>
     * 参考车道线：临界区以内的访存指令出不去barrier点（实线）。双实线(临界区外的访存指令进不来) 以及 一半虚线和一半实线（临界区外的访存指令可以被CPU调度优化，进入到临界区中）
   * virtqueue转盘模式：<https://nxw.name/2023/virtqueue>
