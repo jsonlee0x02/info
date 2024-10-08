@@ -61,6 +61,7 @@
   * Region based memory management: <https://sungsoo.github.io/2016/02/18/region-based-memory-management.html>
   * RISCV多路复用：<https://www.cnblogs.com/lilpig/p/17271603.html>
   * AMD MI300 CDNA ISA: <https://www.amd.com/content/dam/amd/en/documents/instinct-tech-docs/instruction-set-architectures/amd-instinct-mi300-cdna3-instruction-set-architecture.pdf>
+  * Change making problem：<https://en.wikipedia.org/wiki/Change-making_problem>
 
 
 ## Others
