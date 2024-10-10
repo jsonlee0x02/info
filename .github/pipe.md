@@ -62,7 +62,7 @@
   * RISCV多路复用：<https://www.cnblogs.com/lilpig/p/17271603.html>
   * AMD MI300 CDNA ISA: <https://www.amd.com/content/dam/amd/en/documents/instinct-tech-docs/instruction-set-architectures/amd-instinct-mi300-cdna3-instruction-set-architecture.pdf>
   * change making problem: <https://en.wikipedia.org/wiki/Change-making_problem>
-  * LLVM自动更新llvm-lit check: <https://github.com/llvm/llvm-project/blob/main/llvm/utils/update_cc_test_checks.py>
+  * LLVM自动更新llvm-lit check: <https://github.com/llvm/llvm-project/blob/main/llvm/utils/update_cc_test_checks.py> & <https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.6>
 
 
 ## Others
