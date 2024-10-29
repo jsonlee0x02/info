@@ -65,6 +65,7 @@
   * LLVM自动更新llvm-lit check: <https://github.com/llvm/llvm-project/blob/main/llvm/utils/update_cc_test_checks.py> & <https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.6>
   * JVM bug fix from wangshuai: <https://mp.weixin.qq.com/s?__biz=MzkyMjYzNjU0Ng==&mid=2247507053&idx=1&sn=06b9b0e2800ba6338082bb770c3e5db9&source=41#wechat_redirect>
   * AI agent benchmark, SWE-bench: <https://arxiv.org/abs/2310.06770> & TAU-bench: <https://arxiv.org/abs/2406.12045>
+  * LLVM IR add bfloat & half example: <https://reviews.llvm.org/D78190>
 
 
 ## Others
