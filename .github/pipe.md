@@ -70,6 +70,8 @@
 
 ## Others
 
+* 架构
+  * 打破专业隔阂，寻找创新点来平衡软硬件设计的复杂度，最终在项目日程、工作量、质量、可靠性等方面找到一个最优解（取舍）。
 * 组织结构和治理
   * 关于组织结构的思考：Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile,  <https://www.researchgate.net/publication/250082400_Complexity_Rising_From_Human_Beings_to_Human_Civilization_a_Complexity_Profile>
   * 公司治理结构：<https://www.ceibs.edu/facultyCV/lneng/ch3%20two%20stories%20and%20a%20model%205%204%2099.pdf>
