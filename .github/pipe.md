@@ -67,12 +67,17 @@
   * AI agent benchmark, SWE-bench: <https://arxiv.org/abs/2310.06770> & TAU-bench: <https://arxiv.org/abs/2406.12045>
   * LLVM IR add bfloat & half example: <https://reviews.llvm.org/D78190>
   * Dataflow Architecture: Pure, Hybrid, and Spatial, <https://www.cs.cmu.edu/~15740-f20/lectures/15-dataflow.pdf>
+  * 循环的形式化表达以及扩展能力，参考UVE：<https://hpcas.inesc-id.pt/~handle/papers/Journal_IEEEMicro_2022.pdf>
 
 
 ## Others
 
 * 架构
   * 打破专业隔阂，寻找创新点来平衡软硬件设计的复杂度，最终在项目日程、工作量、质量、可靠性等方面找到一个最优解（取舍）。
+  * 架构师的英文是architect，跟建筑师并没有什么本质区别
+    * 复杂的业务系统背后没有抽象就会演进成一坨屎山。再精妙的系统经过若干代演进之后也会出现架构腐化的问题。能像古建筑那样历经千年风化和腐蚀，还有四梁八柱能保存和沉淀下来的才叫精华，这就是体现架构水平的地方
+    * 类比一下，古希腊的建筑也比较有特点。在设计的时候都是先研究柱子怎么摆放，再设计其它的。历经战乱和风沙侵蚀，早期宏伟瑰丽的墙体早已消失不见，只有那些柱子还坚挺地立在那里
+    * 异曲同工
 * 组织结构和治理
   * 关于组织结构的思考：Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile,  <https://www.researchgate.net/publication/250082400_Complexity_Rising_From_Human_Beings_to_Human_Civilization_a_Complexity_Profile>
   * 公司治理结构：<https://www.ceibs.edu/facultyCV/lneng/ch3%20two%20stories%20and%20a%20model%205%204%2099.pdf>
