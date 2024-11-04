@@ -69,6 +69,7 @@
   * Dataflow Architecture: Pure, Hybrid, and Spatial, <https://www.cs.cmu.edu/~15740-f20/lectures/15-dataflow.pdf>
   * 循环的形式化表达以及扩展能力，参考UVE：<https://hpcas.inesc-id.pt/~handle/papers/Journal_IEEEMicro_2022.pdf>
   * Stanford PPL: <https://stanford-ppl.github.io/website/#publications> & <https://ppl.stanford.edu/papers/DAM_ISCA24.pdf>
+  * Classic Papers in Programming Languages and Logic: <https://www.cs.cmu.edu/~crary/819-f09/>
 
 
 ## Others
