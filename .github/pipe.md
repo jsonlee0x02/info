@@ -70,6 +70,7 @@
   * 循环的形式化表达以及扩展能力，参考UVE：<https://hpcas.inesc-id.pt/~handle/papers/Journal_IEEEMicro_2022.pdf>
   * Stanford PPL: <https://stanford-ppl.github.io/website/#publications> & <https://ppl.stanford.edu/papers/DAM_ISCA24.pdf>
   * Classic Papers in Programming Languages and Logic: <https://www.cs.cmu.edu/~crary/819-f09/>
+  * Brace Initializer in C: <https://www.dev0notes.com/beginners/initialization_in_modern_c_part_1>
 
 
 ## Others
