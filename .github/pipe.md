@@ -71,6 +71,7 @@
   * Stanford PPL: <https://stanford-ppl.github.io/website/#publications> & <https://ppl.stanford.edu/papers/DAM_ISCA24.pdf>
   * Classic Papers in Programming Languages and Logic: <https://www.cs.cmu.edu/~crary/819-f09/>
   * Brace Initializer in C: <https://www.dev0notes.com/beginners/initialization_in_modern_c_part_1>
+  * Hopper H100 example: <https://github.com/NVIDIA/cuda-samples/pull/214/files>
 
 
 ## Others
