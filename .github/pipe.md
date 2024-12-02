@@ -65,7 +65,7 @@
   * LLVM自动更新llvm-lit check: <https://github.com/llvm/llvm-project/blob/main/llvm/utils/update_cc_test_checks.py> & <https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.6>
   * JVM bug fix from wangshuai: <https://mp.weixin.qq.com/s?__biz=MzkyMjYzNjU0Ng==&mid=2247507053&idx=1&sn=06b9b0e2800ba6338082bb770c3e5db9&source=41#wechat_redirect>
   * AI agent benchmark, SWE-bench: <https://arxiv.org/abs/2310.06770> & TAU-bench: <https://arxiv.org/abs/2406.12045>
-  * LLVM IR add bfloat & half example: <https://reviews.llvm.org/D78190>
+  * Clang & LLVM bfloat & half example: clang <https://reviews.llvm.org/D76077#change-oFd0EAV3MLeP> & LLVM IR <https://reviews.llvm.org/D78190>
   * Dataflow Architecture: Pure, Hybrid, and Spatial, <https://www.cs.cmu.edu/~15740-f20/lectures/15-dataflow.pdf>
   * 循环的形式化表达以及扩展能力，参考UVE：<https://hpcas.inesc-id.pt/~handle/papers/Journal_IEEEMicro_2022.pdf>
   * Stanford PPL: <https://stanford-ppl.github.io/website/#publications> & <https://ppl.stanford.edu/papers/DAM_ISCA24.pdf>
