@@ -72,6 +72,7 @@
   * Classic Papers in Programming Languages and Logic: <https://www.cs.cmu.edu/~crary/819-f09/>
   * Brace Initializer in C: <https://www.dev0notes.com/beginners/initialization_in_modern_c_part_1>
   * Hopper H100 TMA(Tensor Memory Accelerator) example: <https://github.com/NVIDIA/cuda-samples/pull/214/files> & <https://research.colfax-intl.com/tutorial-hopper-tma/>
+  * CMU 15418, Parallel Computer Architecture and Programming: <https://www.cs.cmu.edu/~15418/schedule.html>
 
 
 ## Others
