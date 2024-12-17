@@ -73,6 +73,7 @@
   * Brace Initializer in C: <https://www.dev0notes.com/beginners/initialization_in_modern_c_part_1>
   * Hopper H100 TMA(Tensor Memory Accelerator) example: <https://github.com/NVIDIA/cuda-samples/pull/214/files> & <https://research.colfax-intl.com/tutorial-hopper-tma/>
   * CMU 15418, Parallel Computer Architecture and Programming: <https://www.cs.cmu.edu/~15418/schedule.html>
+  * eventcount同步原语抽象, from Communications of ACM, 1979, MIT, Synchronization with Eventcounts and Sequencers, <https://dl.acm.org/doi/pdf/10.1145/359060.359076#:~:text=A%20new%20synchronization%20mechanism%20is,that%20control%20ordering%20of%20events.>
 
 
 ## Others
