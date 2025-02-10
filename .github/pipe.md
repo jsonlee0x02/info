@@ -75,6 +75,7 @@
   * CMU 15418, Parallel Computer Architecture and Programming: <https://www.cs.cmu.edu/~15418/schedule.html>
     * Parallel Programming Abstractions: <https://www.cs.cmu.edu/afs/cs/academic/class/15418-s18/www/lectures/03_progmodels.pdf>
   * eventcount同步原语抽象, from Communications of ACM, 1979, MIT, Synchronization with Eventcounts and Sequencers, <https://dl.acm.org/doi/pdf/10.1145/359060.359076#:~:text=A%20new%20synchronization%20mechanism%20is,that%20control%20ordering%20of%20events.>
+  * Binary Semaphores and Counters: <https://www.geeksforgeeks.org/difference-between-counting-and-binary-semaphores/>
 
 
 ## Others
