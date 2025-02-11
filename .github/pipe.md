@@ -29,7 +29,9 @@
     * 车载软件与国产现状：<https://www.jishulink.com/post/1879680>
     * 车载OS三域(安全车载、座舱、智驾)现状(部分信息过时)：<https://zhuanlan.zhihu.com/p/672232647>
     * 2023整车操作系统发展趋势研究报告: <https://www.eet-china.com/mp/a250201.html>
-    * 「刹不住的丰田」审判纪实！<https://mp.weixin.qq.com/s?__biz=MzIxNTY1NzE0MQ==&mid=2247486466&idx=1&sn=b6444c177db00aa4a51cf8ce5e8861e3&chksm=9795b3d8a0e23ace2ee5f618e0ac3832981c183befee6fbe2ddabc15ece7356e1dfa10efc215&scene=21>
+    * 「刹不住的丰田」审判纪实！
+      * Part 1: <https://mp.weixin.qq.com/s?__biz=MzIxNTY1NzE0MQ==&mid=2247486466&idx=1&sn=b6444c177db00aa4a51cf8ce5e8861e3&chksm=9795b3d8a0e23ace2ee5f618e0ac3832981c183befee6fbe2ddabc15ece7356e1dfa10efc215&scene=21>
+      * Part 2: <http://www.whybeta.com/解锁封尘笔录-－-「刹不住的丰田」审判纪实！-part-2/#google_vignette>
       * 嵌入式软件领域的典型案例：BOOKOUT V. TOYOTA: <https://homepage.cs.uiowa.edu/~tinelli/classes/181/Fall14/Papers/Barr13.pdf>
        
 * `编译和工具链`
