@@ -91,6 +91,8 @@
   * 瓦萨是一艘古战船之名，它是奉瑞典国王古斯塔夫二世的旨意于1625年（明朝天启年间）开始建造。在瓦萨号的骨架已经安装好时，国王古斯塔夫二世无视造船师的意见，一意孤行，下令增加战舰的长度，经验丰富的主造船师亨里克·哈伯特倍感无奈，只得奉命行事。1627年，亨里克病逝，他的助手、没有太多经验的海因·雅各布森接替他主持建造。而此时，国王得知了丹麦建成双层炮舰的消息，于是他又决定，为原计划修建单层炮舰的瓦萨号增加一个枪械甲板，把它改建成“双层”炮舰，打造当时装备最齐全、武装程度最高的战船。事实上，基于原来设计的横梁和压舱物来说，这些装备显得过高过长了，但国王的命令没人敢违抗。在对战舰的稳定性测试中，瓦萨号发生了危险的摇动，对这个预警信号，海因·雅各布森视而不见。
   * 1628年8月10日，瓦萨号在万众瞩目中扬帆起航，但在航行了不到1海里后遇上大风浪开始侧倾，又因船身过重而加速沉没。凝聚着瑞典王国无限期盼的心血之作以首航仅仅10多分钟便沉没而成绝唱。
   * 任老板的思考：战舰的目的就是为了作战！<https://finance.sina.cn/2020-06-20/detail-iirczymk7654083.d.html>
+  * 瓦萨号：<https://zh.wikipedia.org/wiki/%E7%93%A6%E8%90%A8%E5%8F%B7>
+    * 类似船只：信浓号航空母舰，<https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%BF%83%E8%99%9F%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%89%A6>
 * 组织结构和治理
   * 关于组织结构的思考：Complexity Rising: From Human Beings to Human Civilization, a Complexity Profile,  <https://www.researchgate.net/publication/250082400_Complexity_Rising_From_Human_Beings_to_Human_Civilization_a_Complexity_Profile>
   * 公司治理结构：<https://www.ceibs.edu/facultyCV/lneng/ch3%20two%20stories%20and%20a%20model%205%204%2099.pdf>
