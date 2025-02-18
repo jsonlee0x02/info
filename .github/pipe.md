@@ -82,6 +82,7 @@
   * eventcount同步原语抽象, from Communications of ACM, 1979, MIT, Synchronization with Eventcounts and Sequencers, <https://dl.acm.org/doi/pdf/10.1145/359060.359076#:~:text=A%20new%20synchronization%20mechanism%20is,that%20control%20ordering%20of%20events.>
   * Binary Semaphores and Counters: <https://www.geeksforgeeks.org/difference-between-counting-and-binary-semaphores/>
   * Remember the vasa! <https://www.stroustrup.com/P0977-remember-the-vasa.pdf>
+  * Clang处理cuda launch kernel: <https://jia.je/software/2023/10/17/clang-cuda-support/#%E7%BC%96%E8%AF%91%E6%B5%81%E7%A8%8B>
 
 
 ## Others
