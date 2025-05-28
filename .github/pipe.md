@@ -83,6 +83,7 @@
   * Binary Semaphores and Counters: <https://www.geeksforgeeks.org/difference-between-counting-and-binary-semaphores/>
   * Remember the vasa! <https://www.stroustrup.com/P0977-remember-the-vasa.pdf>
   * Clang处理cuda launch kernel: <https://jia.je/software/2023/10/17/clang-cuda-support/#%E7%BC%96%E8%AF%91%E6%B5%81%E7%A8%8B>
+  * Double Buffer算法在编程语言中的常见表达：<https://www.usenix.org/legacy/publications/library/proceedings/usenix02/full_papers/huang/huang_html/node8.html>
 
 
 ## Others
