@@ -86,6 +86,7 @@
   * Double Buffer算法在编程语言中的常见表达：<https://www.usenix.org/legacy/publications/library/proceedings/usenix02/full_papers/huang/huang_html/node8.html>
   * Cangjie CHIR：<https://developer.huawei.com/consumer/cn/forum/topic/0207156716716122113>
   * LLVM IR Operand Bundles 示例：https://github.com/llvm/llvm-project/tree/main/llvm/test/Feature/OperandBundles
+  * Triton Ascend: https://gitee.com/ascend/triton-ascend，https://ascend.github.io/triton-ascend/sources/programming-guide/introduction.html#
 
 
 ## Others
