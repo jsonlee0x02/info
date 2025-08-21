@@ -85,6 +85,7 @@
   * Clang处理cuda launch kernel: <https://jia.je/software/2023/10/17/clang-cuda-support/#%E7%BC%96%E8%AF%91%E6%B5%81%E7%A8%8B>
   * Double Buffer算法在编程语言中的常见表达：<https://www.usenix.org/legacy/publications/library/proceedings/usenix02/full_papers/huang/huang_html/node8.html>
   * Cangjie CHIR：<https://developer.huawei.com/consumer/cn/forum/topic/0207156716716122113>
+  * Ascend NPU 同步原语自动插入方法：<https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202440093.pdf>
   * LLVM IR Operand Bundles 示例：https://github.com/llvm/llvm-project/tree/main/llvm/test/Feature/OperandBundles
   * Triton Ascend: https://gitee.com/ascend/triton-ascend，https://ascend.github.io/triton-ascend/sources/programming-guide/introduction.html#
 
