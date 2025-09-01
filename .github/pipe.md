@@ -88,6 +88,7 @@
   * Ascend NPU 同步原语自动插入方法：<https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202440093.pdf>
   * LLVM IR Operand Bundles 示例：https://github.com/llvm/llvm-project/tree/main/llvm/test/Feature/OperandBundles
   * Triton Ascend: https://gitee.com/ascend/triton-ascend，https://ascend.github.io/triton-ascend/sources/programming-guide/introduction.html#
+  * 数据流编程建模：<https://eclipse.umbc.edu/robucci/cmpeRSD/Lectures/Lecture05__Ch2_DataFlowModeling/#data-flow-modeling-and-data-flow-graphs>
 
 
 ## Others
