@@ -89,6 +89,7 @@
   * LLVM IR Operand Bundles 示例：https://github.com/llvm/llvm-project/tree/main/llvm/test/Feature/OperandBundles
   * Triton Ascend: https://gitee.com/ascend/triton-ascend，https://ascend.github.io/triton-ascend/sources/programming-guide/introduction.html#
   * 数据流编程建模：<https://eclipse.umbc.edu/robucci/cmpeRSD/Lectures/Lecture05__Ch2_DataFlowModeling/#data-flow-modeling-and-data-flow-graphs>
+  * AMD AIE NPU MLIR-AIR 编译器: <https://arxiv.org/abs/2510.14871> & <https://mp.weixin.qq.com/s/eZVfUVh3mlHuEHzQabw73g>
 
 
 ## Others
